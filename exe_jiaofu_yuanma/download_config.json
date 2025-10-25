@@ -1,0 +1,9 @@
+{
+  "symbols": [
+    "SOLUSDT",
+    "BTCUSDT",
+    "ETHUSDT"
+  ],
+  "max_concurrent": 10,
+  "main_symbol": "SOLUSDT"
+}

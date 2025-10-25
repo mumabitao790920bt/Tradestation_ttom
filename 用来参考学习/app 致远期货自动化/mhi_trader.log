@@ -1,0 +1,1 @@
+2025-10-21 14:02:03,974 - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
